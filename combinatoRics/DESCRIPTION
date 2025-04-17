@@ -1,0 +1,32 @@
+Package: combinatoRics
+Type: Package
+Title: Tools for Combinatorics
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Quinn", "Maxine Lee",
+      email = "quinn.maxine25@gmail.com",
+      role = c("aut", "cre")
+    ),
+    person(
+      "Nadine", "Amalia Ghassani",
+      email = "nadineamaliag@gmail.com",
+      role = "aut"
+    ),
+    person(
+      "Nisrina", "Giska Kamila",
+      email = "nisrinagiska24@gmail.com",
+      role = "aut"
+    )
+  )
+Description: Includes functions for combinatoric formulas, can be used for stiatistical purposes.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Suggests: roxygen2
+Author: Quinn Maxine Lee [aut, cre],
+  Nadine Amalia Ghassani [aut],
+  Nisrina Giska Kamila [aut]
+Maintainer: Quinn Maxine Lee <quinn.maxine25@gmail.com>
+Built: R 4.3.2; ; 2025-04-17 02:17:26 UTC; windows
